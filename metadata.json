@@ -1,0 +1,5 @@
+{
+  "name": "Mjpixelvibe",
+  "description": "Advanced AI Voice Agent specializing in Video Content Creation and Image Design. Expert advice on editing, strategy, and graphic design in Bengali and English.",
+  "requestFramePermissions": ["microphone"]
+}
