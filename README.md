@@ -3,12 +3,13 @@
 </div>
 
 # Run and deploy your AI Studio app
+<a />
 
-live app <a href="[https://www.example.com](https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525?fullscreenApplet=true)">
+ <a href="[[https://www.example.com](https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525?fullscreenApplet=true)](https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525?fullscreenApplet=true)"> live app <a/>
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525
+View your app in AI Studio: [https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525](https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525?fullscreenApplet=true)
 
 ## Run Locally
 
