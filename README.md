@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+live app <a href="[https://www.example.com](https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525?fullscreenApplet=true)">
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/f02c82c9-b0ae-427b-9238-3456e508c525
